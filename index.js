@@ -21,5 +21,5 @@ function sayHiToGrandma(string);
   return "I can't hear you"
   else string = toUpperCase
   return "YES INDEED!"
-  Else if string = "I love you, too."
+  else string = "I love you, Granma."
 }
